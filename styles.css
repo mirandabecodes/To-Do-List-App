@@ -1,0 +1,92 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  
+  body {
+    background-color: #778899;
+    font-family: 'Englebert', cursive;
+    margin: auto;
+    width: 100%;
+    min-height: 100vh;
+    padding: 10px;
+  }
+  
+  h1 {
+    padding-top: 100px;
+    text-align: center;
+    font-size: 35px;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 25px;
+  }
+
+  
+  #app-background {
+    background-color: #FFF0F5;
+    border-radius: 10px;
+    width: 100%; 
+    max-width: 600px;
+    margin: 100px auto 20px;
+  }
+  
+  #task-input {
+    width: 50%;
+    height: 35px;
+    border-radius: 5px;
+    text-align: center;
+    margin-right: 5px;
+    margin-left: 35px;
+    font-family: 'DM Sans', sans-serif;
+  }
+  
+  #submit {
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    font-family: 'DM Sans', sans-serif;
+    cursor: pointer;
+    background: #77889993;
+    font-size: 16px;
+  }
+  
+  li {
+    list-style-type: none;
+    display: inline-block;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 20px;
+    /* color: black; */
+  }
+
+
+  /* #taskCount {
+  
+  } */
+  
+  input[type=checkbox]{
+    width: 1.5em;
+    height: 1.5em;
+    border-radius: 0.15em;
+    accent-color:  #DB7093; 
+    cursor: pointer; 
+  }
+
+
+
+
+
+
+  /* body {
+    background-color: #778899;
+    background-image: url("Cork\ board.jpg");
+    background-repeat: no-repeat; 
+    background-size: 100%; 
+    font-family: 'Englebert', cursive;
+    margin: auto;
+    width: 60%;
+  } */
+  
